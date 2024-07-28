@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/GioKhabu/Fylo-dark-theme.git]
+- Live Site URL: [https://fylo-dark-theme-lovat.vercel.app/]
 
 ## My process
 
